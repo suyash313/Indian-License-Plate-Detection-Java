@@ -196,3 +196,10 @@ INTER_AREA is Bilinear Interpolation with coefficients 1 and 0.
 ![image](https://user-images.githubusercontent.com/92619018/206590103-da7ddf98-baf6-4543-a057-8685808d6a58.png)
 
 **Fig 12: This image shows details of the person whose record was matched in the criminal database.**
+
+
+
+Contributions by: -
+  - @Abhik2211
+  - @Mansi-ag2002
+  - @KhushiB938
